@@ -1,5 +1,6 @@
 import "./App.css";
 import DictionaryPicture from "./DictionaryPicture.jpeg";
+import "bootstrap/dist/css/bootstrap.css";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
           alt="dictionary"
         />
         <h1>Dictionary App</h1>
+        
       </header>
       <footer>
         <div className="footer-coding-credit">
