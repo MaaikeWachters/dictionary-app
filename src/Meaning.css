@@ -1,0 +1,8 @@
+.Meaning h3 {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.Meaning {
+  font-size: 18px;
+}

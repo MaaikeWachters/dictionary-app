@@ -1,0 +1,5 @@
+.Results h2 {
+  font-size: 64px;
+  font-family: var(--heading-font);
+  color: var(--primary-color);
+}

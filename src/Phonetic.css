@@ -1,0 +1,5 @@
+.Phonetic {
+  color: var(--primary-color);
+  font-style: italic;
+  font-size: 24px;
+}
