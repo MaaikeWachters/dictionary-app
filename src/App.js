@@ -1,7 +1,7 @@
 import "./App.css";
 import background from "./DictionaryPictureBig.jpeg";
-import "bootstrap/dist/css/bootstrap.css";
 import Dictionary from "./Dictionary";
+
 
 export default function App() {
   return (

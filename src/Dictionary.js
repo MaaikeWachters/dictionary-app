@@ -51,9 +51,7 @@ export default function Dictionary() {
         </form>
       </section>
       <Results results={results} />
-      
-        <Photos photos={photos} />
-     
+      <Photos photos={photos} />{" "}
     </div>
   );
 }
