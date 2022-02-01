@@ -10,7 +10,7 @@ export default function Photos(props) {
             <div className="col-4" key={photo.id}>
               <a href={photo.src.original} target="_blank" rel="noreferrer">
                 <img
-                  className="img-fluid pb-3"
+                  className="img-fluid mb-3 rounded"
                   src={photo.src.tiny}
                   alt={photo.alt}
                 />
